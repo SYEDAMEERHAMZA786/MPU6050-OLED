@@ -1,0 +1,4 @@
+Adafruit_MPU6050 
+Adafruit_Sensor
+U8g2lib
+headers
